@@ -39,6 +39,8 @@ Aby uruchomić przykład wraz z funcjonalnościami zawartymi w spring cloudzie, 
 
         spring cloud eureka configserver zipkin
 
+oraz uruchomić lokalnie serwery "complete/name", "complete/greeting" oraz "complete/web".
+
 Bez poniższych dependencji kod nie działał:
 
         <dependency>
